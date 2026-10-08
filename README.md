@@ -19,8 +19,8 @@
 ## Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlowManya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d16&title_color=b197fc&icon_color=7c3aed&text_color=cfcfe0&ring_color=7c3aed&border_radius=12" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlowManya&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d16&title_color=b197fc&text_color=cfcfe0&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FlowManya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d16&title_color=b197fc&icon_color=7c3aed&text_color=cfcfe0&ring_color=7c3aed&border_radius=12&count_private=true&include_all_commits=true&v=2" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlowManya&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d16&title_color=b197fc&text_color=cfcfe0&border_radius=12&langs_count=8&count_private=true&v=2" height="170"/>
 </p>
 
 ## Contact
